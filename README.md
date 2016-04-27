@@ -1,2 +1,2 @@
 # gbfamily
-A humanitarian website.
+A humanitarian non-profit website.
