@@ -219,13 +219,13 @@
         <!-- Team -->
         <section class="our-team" id="team">
             <h3 class="text-center">Our Management Team</h3>
-            <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <p class="text-center">GB-Family is managed by an awesome team of volunteers.</p>
             <div class="container">
                 <ul class="ch-grid">
                     <li>
                         <div class="ch-item ch-img-1">
                             <div class="ch-info">
-                                <h4>Britney Spears</h4>
+                                <h4>Mojo</h4>
                                 <ul class="social-icons1">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -235,14 +235,14 @@
                             </div>
                         </div>
                         <div class="team-details">
-                            <h5>Britney Spears</h5>
-                            <p>CEO</p>
+                            <h5>Mojo</h5>
+                            <p>Founder</p>
                         </div>
                     </li>
                     <li>
                         <div class="ch-item ch-img-2">
                             <div class="ch-info">
-                                <h4>Tom Cruise</h5>
+                                <h4>Mike</h5>
                                     <ul class="social-icons1">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -252,14 +252,14 @@
                             </div>
                         </div>
                         <div class="team-details">
-                            <h5>Tom Cruise</h5>
+                            <h5>Mike </h5>
                             <p>Managing Director</p>
                         </div>
                     </li>
                     <li>
                         <div class="ch-item ch-img-3">
                             <div class="ch-info">
-                                <h4>Nicholas Cage</h4>
+                                <h4>Daddy Maga</h4>
                                 <ul class="social-icons1">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -269,14 +269,14 @@
                             </div>
                         </div>
                         <div class="team-details">
-                            <h5>Nicholas Cage</h5>
+                            <h5>Daddy Maga</h5>
                             <p>Excecutive Director</p>
                         </div>
                     </li>
                     <li>
                         <div class="ch-item ch-img-4">
                             <div class="ch-info">
-                                <h4>Lady Gaga</h4>
+                                <h4>Tatiana</h4>
                                 <ul class="social-icons1">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -286,8 +286,8 @@
                             </div>
                         </div>
                         <div class="team-details">
-                            <h5>Lady Gaga</h5>
-                            <p>Marketing Manager</p>
+                            <h5>Tatiana</h5>
+                            <p>Public Relations Manager</p>
                         </div>
                     </li>
                 </ul>				
