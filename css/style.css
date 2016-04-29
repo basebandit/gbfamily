@@ -109,8 +109,8 @@ a:after {
 /*-- /navigation-bar --*/ 
 #headerwrap {
     background:url(../images/banner4.jpg) no-repeat;
-    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
-    filter: grayscale(100%);
+    -webkit-filter: grayscale(20%); /* Chrome, Safari, Opera */
+    filter: grayscale(20%);
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;

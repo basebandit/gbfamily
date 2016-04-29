@@ -94,17 +94,26 @@
                     <div class="col-sm-4 intro-info">
                         <img src="images/community.jpg" alt="">
                         <h4>Community</h4>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p class="text-justify">We are a community of different individuals and 
+                            volunteers with the same objective.To help the less 
+                            fortunate in the society and help make this world a
+                            better place to Live</p>
                     </div>
                     <div class="col-sm-4 intro-info">
-                        <img src="images/time.jpg" alt="">
+                        <img src="images/family.jpg" alt="">
                         <h4>Family</h4>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p class="text-justify">We are a family and seek to help each other as a 
+                            family in meeting our end objective - giving back 
+                            to society.We welcome anyone willing to be part of 
+                            this family</p>
                     </div>
                     <div class="col-sm-4 intro-info">
-                        <img src="images/lcd.png" alt="">
+                        <img src="images/society.jpg" alt="">
                         <h4>Society</h4>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p class="text-justify">We operate and abide to certain laws
+                            and rules as stipulated in the Kenyan constitution.
+                            We do not discriminate against any group,race,
+                            nationality.</p>
                     </div>
                 </div>
             </div> <!--/ .container -->
@@ -303,13 +312,13 @@
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner text-center">
                                     <div class="item active">
-                                        <img src="images/show1.png" class="img-responsive" alt="">
+                                        <img src="images/show_1.jpg" class="img-responsive" alt="">
                                     </div>
                                     <div class="item">
-                                        <img src="images/show2.png" class="img-responsive" alt="">
+                                        <img src="images/show_2.jpg" class="img-responsive" alt="">
                                     </div>
                                     <div class="item">
-                                        <img src="images/show3.png" class="img-responsive" alt="">
+                                        <img src="images/show_3.jpg" class="img-responsive" alt="">
                                     </div>
                                 </div>
                             </div>
