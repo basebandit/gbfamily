@@ -66,11 +66,12 @@
         <div id="headerwrap">	
             <div class="container">
                 <div class="logo">
+<!--                    <img src="images/gb-logo.jpg"></img>-->
                     <a href="#home">GB~Family</a>
                 </div>
                 <div class="banner-info">
                     <h1>Give Back To Society</h1>
-                    <h3>Share your love.</h3>
+                    <h3>Share is caring.</h3>
                 </div>
             </div> <!--/ .container -->
         </div><!--/ #headerwrap -->
@@ -138,26 +139,30 @@
                         <img class="centered img-responsive" src="images/service.jpg" alt="">
                     </div>
                     <div class="col-md-6">
-                        <h4>Blessed Children Center - Matangi</h4>
+                        <h4>Good In Deed Children's Home - Mwiki</h4>
                         <!-- ACCORDION -->
                         <div class="accordion ac" id="accordion2">
                             <div class="accordion-group">
                                 <div class="accordion-heading">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">26<sup>th</sup> April 2016</a>
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">28<sup>th</sup> May 2016</a>
                                 </div><!-- /accordion-heading -->
                                 <div id="collapseOne" class="accordion-body collapse in">
                                     <div class="accordion-inner">
-                                        <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                        <p>Due to community service and as service to mankind is service to God.
+                                            This month's visit will be on the last Saturday of May at Mwiki.We will all alight 
+                                            at Maji Matamu stage.Come One Come all,Lets show them there are people out there
+                                            that care and love them.Jah bless.</p>
                                     </div><!-- /accordion-inner -->
                                 </div><!-- /collapse -->
                             </div><!-- /accordion-group -->
                             <div class="accordion-group">
                                 <div class="accordion-heading">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">Retina Ready Theme</a>
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">Donate</a>
                                 </div>
                                 <div id="collapseTwo" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                        <p>Lipa na Mpesa coming soon.<br/>
+                                            A kind heart is a huge heart.</p>
                                     </div><!-- /accordion-inner -->
                                 </div><!-- /collapse -->
                             </div><!-- /accordion-group -->
@@ -167,7 +172,7 @@
                                 </div>
                                 <div id="collapseThree" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                        <p>Show your support by becoming a part of gbfamily.Join us in our mission of eradicating poverty in Kenya and Africa at large.</p>
                                     </div><!-- /accordion-inner -->
                                 </div><!-- /collapse -->
                             </div><!-- /accordion-group -->
@@ -177,7 +182,7 @@
                                 </div>
                                 <div id="collapseFour" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                        <p>Registration form coming soon</p>
                                     </div><!-- /accordion-inner -->
                                 </div><!-- /collapse -->
                             </div><!-- /accordion-group -->
@@ -199,7 +204,7 @@
         <!-- Gallery -->
         <section class="our-gallery" id="gallery">	
             <h3 class="text-center">Our Gallery</h3>
-            <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <p class="text-center">Some of the awesome moments.Sharing is caring indeed.</p>
             <div class="container">
                 <a href="images/photo1.jpg" title="Our Gallery"><img src="images/photo1.jpg" alt="example-1" class="img-responsive"></a> 
                 <a href="images/photo2.jpg" title="Our Gallery"><img src="images/photo2.jpg" alt="example-2" class="img-responsive"></a> 
