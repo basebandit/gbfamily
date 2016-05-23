@@ -168,11 +168,14 @@
                             </div><!-- /accordion-group -->
                             <div class="accordion-group">
                                 <div class="accordion-heading">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">Show Your Support</a>
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">Contribution & pledges deadline</a>
                                 </div>
                                 <div id="collapseThree" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>Show your support by becoming a part of gbfamily.Join us in our mission of eradicating poverty in Kenya and Africa at large.</p>
+                                        <p>Hey everyone deadline for pledges & contributions as been extended to Wednesday this week as we
+                                            consolidate everything and work on what we do not have to avoid last minute rush.Thank you for your continued Support.
+                                            <br><span class="text-center">Vice Chairman</span>
+                                        </p>
                                     </div><!-- /accordion-inner -->
                                 </div><!-- /collapse -->
                             </div><!-- /accordion-group -->
