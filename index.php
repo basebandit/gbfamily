@@ -4,7 +4,7 @@
         <title>GBFamily :: Home</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta name="keywords" content="Real Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+        <meta name="keywords" content="Real Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
               Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
         <!-- css files -->
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
@@ -60,10 +60,10 @@
 
 
         <!-- Navigation -->
-        <?php require_once 'inc/inc.header.php'; ?>
-        <!-- Banner -->	
+<?php require_once 'inc/inc.header.php';?>
+<!-- Banner -->
         <section id="home" name="home"></section>
-        <div id="headerwrap">	
+        <div id="headerwrap">
             <div class="container">
                 <div class="logo">
 <!--                    <img src="images/gb-logo.jpg"></img>-->
@@ -71,7 +71,7 @@
                 </div>
                 <div class="banner-info">
                     <h1>Give Back To Society</h1>
-                    <h3>Share is caring.</h3>
+                    <h3>Giving A Helping Hand.</h3>
                 </div>
             </div> <!--/ .container -->
         </div><!--/ #headerwrap -->
@@ -95,17 +95,17 @@
                     <div class="col-sm-4 intro-info">
                         <img src="images/community.jpg" alt="">
                         <h4>Community</h4>
-                        <p class="text-justify">We are a community of different individuals and 
-                            volunteers with the same objective.To help the less 
+                        <p class="text-justify">We are a community of different individuals and
+                            volunteers with the same objective.To help the less
                             fortunate in the society and help make this world a
                             better place to Live</p>
                     </div>
                     <div class="col-sm-4 intro-info">
                         <img src="images/family.jpg" alt="">
                         <h4>Family</h4>
-                        <p class="text-justify">We are a family and seek to help each other as a 
-                            family in meeting our end objective - giving back 
-                            to society.We welcome anyone willing to be part of 
+                        <p class="text-justify">We are a family and seek to help each other as a
+                            family in meeting our end objective - giving back
+                            to society.We welcome anyone willing to be part of
                             this family</p>
                     </div>
                     <div class="col-sm-4 intro-info">
@@ -139,18 +139,18 @@
                         <img class="centered img-responsive" src="images/service.jpg" alt="">
                     </div>
                     <div class="col-md-6">
-                        <h4>Good In Deed Children's Home - Mwiki</h4>
+                        <h4>Gatundu Children's Home - Gatundu</h4>
                         <!-- ACCORDION -->
                         <div class="accordion ac" id="accordion2">
                             <div class="accordion-group">
                                 <div class="accordion-heading">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">28<sup>th</sup> May 2016</a>
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">26<sup>th</sup> June 2016</a>
                                 </div><!-- /accordion-heading -->
                                 <div id="collapseOne" class="accordion-body collapse in">
                                     <div class="accordion-inner">
                                         <p>Due to community service and as service to mankind is service to God.
-                                            This month's visit will be on the last Saturday of May at Mwiki.We will all alight 
-                                            at Maji Matamu stage.Come One Come all,Lets show them there are people out there
+                                            This month's visit will be on the last Saturday of June at Gatundu.
+                                            Come One Come all,Lets show them there are people out there
                                             that care and love them.Jah bless.</p>
                                     </div><!-- /accordion-inner -->
                                 </div><!-- /collapse -->
@@ -172,7 +172,7 @@
                                 </div>
                                 <div id="collapseThree" class="accordion-body collapse">
                                     <div class="accordion-inner">
-                                        <p>Hey everyone deadline for pledges & contributions as been extended to Wednesday this week as we
+                                        <p>Hey everyone deadline for pledges & contributions as been extended to Friday this week as we
                                             consolidate everything and work on what we do not have to avoid last minute rush.Thank you for your continued Support.
                                             <br><span class="text-center">Vice Chairman</span>
                                         </p>
@@ -205,25 +205,25 @@
             (adsbygoogle = window.adsbygoogle || []).push({});
             </script></div>-->
         <!-- Gallery -->
-        <section class="our-gallery" id="gallery">	
+        <section class="our-gallery" id="gallery">
             <h3 class="text-center">Our Gallery</h3>
             <p class="text-center">Some of the awesome moments.Sharing is caring indeed.</p>
             <div class="container">
-                <a href="images/photo1.jpg" title="Our Gallery"><img src="images/photo1.jpg" alt="example-1" class="img-responsive"></a> 
-                <a href="images/photo2.jpg" title="Our Gallery"><img src="images/photo2.jpg" alt="example-2" class="img-responsive"></a> 
+                <a href="images/photo1.jpg" title="Our Gallery"><img src="images/photo1.jpg" alt="example-1" class="img-responsive"></a>
+                <a href="images/photo2.jpg" title="Our Gallery"><img src="images/photo2.jpg" alt="example-2" class="img-responsive"></a>
                 <a href="images/photo3.jpg" title="Our Gallery"><img src="images/photo3.jpg" alt="example-3" class="img-responsive"></a>
-                <a href="images/photo4.jpg" title="Our Gallery"><img src="images/photo4.jpg" alt="example-1" class="img-responsive"></a> 
-                <a href="images/photo5.jpg" title="Our Gallery"><img src="images/photo5.jpg" alt="example-2" class="img-responsive"></a> 
+                <a href="images/photo4.jpg" title="Our Gallery"><img src="images/photo4.jpg" alt="example-1" class="img-responsive"></a>
+                <a href="images/photo5.jpg" title="Our Gallery"><img src="images/photo5.jpg" alt="example-2" class="img-responsive"></a>
                 <a href="images/photo6.jpg" title="Our Gallery"><img src="images/photo6.jpg" alt="example-3" class="img-responsive"></a>
-                <a href="images/photo7.jpg" title="Our Gallery"><img src="images/photo7.jpg" alt="example-1" class="img-responsive"></a> 
-                <a href="images/photo8.jpg" title="Our Gallery"><img src="images/photo8.jpg" alt="example-2" class="img-responsive"></a> 
+                <a href="images/photo7.jpg" title="Our Gallery"><img src="images/photo7.jpg" alt="example-1" class="img-responsive"></a>
+                <a href="images/photo8.jpg" title="Our Gallery"><img src="images/photo8.jpg" alt="example-2" class="img-responsive"></a>
                 <a href="images/photo9.jpg" title="Our Gallery"><img src="images/photo9.jpg" alt="example-3" class="img-responsive"></a>
-                <a href="images/photo10.jpg" title="Our Gallery"><img src="images/photo10.jpg" alt="example-1" class="img-responsive"></a> 
-                <a href="images/photo11.jpg" title="Our Gallery"><img src="images/photo11.jpg" alt="example-2" class="img-responsive"></a> 
+                <a href="images/photo10.jpg" title="Our Gallery"><img src="images/photo10.jpg" alt="example-1" class="img-responsive"></a>
+                <a href="images/photo11.jpg" title="Our Gallery"><img src="images/photo11.jpg" alt="example-2" class="img-responsive"></a>
                 <a href="images/photo12.jpg" title="Our Gallery"><img src="images/photo12.jpg" alt="example-3" class="img-responsive"></a>
-            </div>	
-        </section>		
-        <!-- /Gallery -->	
+            </div>
+        </section>
+        <!-- /Gallery -->
         <!-- Team -->
         <section class="our-team" id="team">
             <h3 class="text-center">Our Management Team</h3>
@@ -244,7 +244,7 @@
                         </div>
                         <div class="team-details">
                             <h5>Mojo</h5>
-                            <p>Founder</p>
+                            <p>Founder & Chairman</p>
                         </div>
                     </li>
                     <li>
@@ -261,7 +261,7 @@
                         </div>
                         <div class="team-details">
                             <h5>Mike </h5>
-                            <p>Managing Director</p>
+                            <p>Treasurer</p>
                         </div>
                     </li>
                     <li>
@@ -278,13 +278,13 @@
                         </div>
                         <div class="team-details">
                             <h5>Daddy Maga</h5>
-                            <p>Excecutive Director</p>
+                            <p>Organizing Secretary</p>
                         </div>
                     </li>
                     <li>
                         <div class="ch-item ch-img-4">
                             <div class="ch-info">
-                                <h4>Tatiana</h4>
+                                <h4>Kiki</h4>
                                 <ul class="social-icons1">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -298,11 +298,11 @@
                             <p>PR Manager</p>
                         </div>
                     </li>
-                </ul>				
-            </div>	
+                </ul>
+            </div>
         </section>
         <!-- /Team -->
-        <!-- Showcase -->			
+        <!-- Showcase -->
         <section id="showcase" name="showcase"></section>
         <div id="screenshots">
             <h3 class="text-center">Family Moments</h3>
@@ -330,13 +330,13 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>	
+                        </div>
                     </div>
-                </div>	
+                </div>
             </div><!-- /container -->
         </div>
         <!-- /Showcase -->
-        <?php require_once 'inc/inc.footer.php'; ?>
+<?php require_once 'inc/inc.footer.php';?>
         <!-- js files -->
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
@@ -347,12 +347,12 @@
             })
         </script>
         <script src="js/navigation.js"></script>
-        <!-- js for gallery -->	
+        <!-- js for gallery -->
         <script src="js/cobox.js" type="text/javascript"></script>
         <!-- /js for gallery -->
         <!-- js for back to top -->
         <script src="js/backtotop.js"></script>
-        <!-- /js for back to top -->		
+        <!-- /js for back to top -->
         <!-- /js files -->
     </body>
 
