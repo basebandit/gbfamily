@@ -209,18 +209,18 @@
             <h3 class="text-center">Our Gallery</h3>
             <p class="text-center">Some of the awesome moments.Sharing is caring indeed.</p>
             <div class="container">
-                <a href="images/photo1.jpg" title="Our Gallery"><img src="images/photo1.jpg" alt="example-1" class="img-responsive"></a>
-                <a href="images/photo2.jpg" title="Our Gallery"><img src="images/photo2.jpg" alt="example-2" class="img-responsive"></a>
-                <a href="images/photo3.jpg" title="Our Gallery"><img src="images/photo3.jpg" alt="example-3" class="img-responsive"></a>
-                <a href="images/photo4.jpg" title="Our Gallery"><img src="images/photo4.jpg" alt="example-1" class="img-responsive"></a>
-                <a href="images/photo5.jpg" title="Our Gallery"><img src="images/photo5.jpg" alt="example-2" class="img-responsive"></a>
-                <a href="images/photo6.jpg" title="Our Gallery"><img src="images/photo6.jpg" alt="example-3" class="img-responsive"></a>
-                <a href="images/photo7.jpg" title="Our Gallery"><img src="images/photo7.jpg" alt="example-1" class="img-responsive"></a>
-                <a href="images/photo8.jpg" title="Our Gallery"><img src="images/photo8.jpg" alt="example-2" class="img-responsive"></a>
-                <a href="images/photo9.jpg" title="Our Gallery"><img src="images/photo9.jpg" alt="example-3" class="img-responsive"></a>
-                <a href="images/photo10.jpg" title="Our Gallery"><img src="images/photo10.jpg" alt="example-1" class="img-responsive"></a>
-                <a href="images/photo11.jpg" title="Our Gallery"><img src="images/photo11.jpg" alt="example-2" class="img-responsive"></a>
-                <a href="images/photo12.jpg" title="Our Gallery"><img src="images/photo12.jpg" alt="example-3" class="img-responsive"></a>
+                <a href="images/pic1.jpg" title="Our Gallery"><img src="images/pic1.jpg" alt="example-1" class="img-responsive"></a>
+                <a href="images/pic2.jpg" title="Our Gallery"><img src="images/pic2.jpg" alt="example-2" class="img-responsive"></a>
+                <a href="images/pic3.jpg" title="Our Gallery"><img src="images/pic3.jpg" alt="example-3" class="img-responsive"></a>
+                <a href="images/pic4.jpg" title="Our Gallery"><img src="images/pic4.jpg" alt="example-1" class="img-responsive"></a>
+                <a href="images/pic5.jpg" title="Our Gallery"><img src="images/pic5.jpg" alt="example-2" class="img-responsive"></a>
+                <a href="images/pic6.jpg" title="Our Gallery"><img src="images/pic6.jpg" alt="example-3" class="img-responsive"></a>
+                <a href="images/pic7.jpg" title="Our Gallery"><img src="images/pic7.jpg" alt="example-1" class="img-responsive"></a>
+                <a href="images/pic8.jpg" title="Our Gallery"><img src="images/pic8.jpg" alt="example-2" class="img-responsive"></a>
+                <a href="images/pic9.jpg" title="Our Gallery"><img src="images/pic9.jpg" alt="example-3" class="img-responsive"></a>
+                <a href="images/pic10.jpg" title="Our Gallery"><img src="images/pic10.jpg" alt="example-1" class="img-responsive"></a>
+                <a href="images/pic11.jpg" title="Our Gallery"><img src="images/pic11.jpg" alt="example-2" class="img-responsive"></a>
+                <a href="images/pic12.jpg" title="Our Gallery"><img src="images/pic12.jpg" alt="example-3" class="img-responsive"></a>
             </div>
         </section>
         <!-- /Gallery -->
