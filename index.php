@@ -4,8 +4,8 @@
         <title>GBFamily :: Home</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta name="keywords" content="Real Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
-              Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+        <meta name="keywords"  content="Giving Back To The Society Website, GB Community, Humanitarian Society, Society Empowerment,
+        Giving Back,Give Back,The Needy,Needy,Poor,Ghetto, Taking Care Of The Less Fortunate, Society, Mercy, Human Welfare, Community"/>
         <!-- css files -->
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
