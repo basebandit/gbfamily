@@ -267,7 +267,7 @@
                     <li>
                         <div class="ch-item ch-img-3">
                             <div class="ch-info">
-                                <h4>Daddy Maga</h4>
+                                <h4>Daddy</h4>
                                 <ul class="social-icons1">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
