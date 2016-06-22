@@ -294,8 +294,8 @@
                             </div>
                         </div>
                         <div class="team-details">
-                            <h5>Tatiana</h5>
-                            <p>PR Manager</p>
+                            <h5>Kiki</h5>
+                            <p>Public Relations</p>
                         </div>
                     </li>
                 </ul>
